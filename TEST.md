@@ -1,0 +1,116 @@
+# Teste para desenvolvedor PHP
+
+Todas as perguntas são baseadas na **versão 7.4.28** do PHP.
+
+[← Voltar](README.md).
+
+## 1. Qual a diferença entre `echo` e `print`?
+
+> (Sua resposta aqui.)
+
+## 2. Qual é a saída do código abaixo? Por quê?
+
+```php
+$x = true and false;
+var_dump($x);
+```
+
+> (Sua resposta aqui.)
+
+## 3. Qual é a saída do código abaixo? Por quê?
+
+```php
+$x = 5;
+
+var_dump(array(
+    $x++ + $x++, $x,
+    $x-- + $x--, $x,
+));
+```
+
+> (Sua resposta aqui.)
+
+## 4. Quais serão os valores de `$a` e `$b` após a execução do código abaixo? Por quê?
+
+```php
+$a = '1';
+$b = &$a;
+$b = "2$b";
+```
+
+> (Sua resposta aqui.)
+
+## 5. O que são Traits e para que servem? 
+
+> (Sua resposta aqui.)
+
+## 6. Qual será a saída do código abaixo? Por quê?
+
+```php
+var_dump(0123 == 123);
+var_dump('0123' == 123);
+var_dump('0123' === 123);
+```
+
+> (Sua resposta aqui.)
+
+## 7. Qual será a saída do código abaixo? Por quê?
+
+```php
+$a = '';
+$b = 0;
+$c = '0a';
+
+var_dump($a == $b);
+var_dump($b == $c);
+var_dump($c == $a);
+```
+
+> (Sua resposta aqui.)
+
+## 8. Qual será o valor de `$x` após a execução do código abaixo? Por quê?
+
+```php
+$x = 3 + "15%";
+```
+
+> (Sua resposta aqui.)
+
+## 9. Qual a diferença entre `require_once()` e `include_once()`?
+
+> (Sua resposta aqui.)
+
+## 10. Qual será o valor de `$name` após a execução do código abaixo? Por quê?
+
+```php
+$name = 'John ';
+$name[10] = 'Doe';
+```
+
+> (Sua resposta aqui.)
+
+## 11. Qual será a saída do código abaixo? Por quê?
+
+```php
+$x = PHP_INT_MAX;
+echo gettype($x + 1);
+echo (int)($x + 1);
+
+$y = 1.0;
+echo is_float($y);
+echo gettype($y);
+```
+
+> (Sua resposta aqui.)
+
+## 12. Qual será o valor de `$x` após a execução do código abaixo? Por quê?
+
+```php
+$x = "one" + 1;
+```
+
+> (Sua resposta aqui.)
+
+## 13. Qual a diferença entre `isset()` e `empty()`?
+
+> (Sua resposta aqui.)
