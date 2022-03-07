@@ -1,8 +1,8 @@
-# Teste para desenvolvedor PHP
+# Teste para pessoa desenvolvedora PHP
 
-Olá! 👋 Este é o teste para desenvolvedor PHP da [Jogajunto](https://jogajunto.com.br).
+Olá! 👋 Este é o teste técnico para a pessoa desenvolvedora PHP da [Jogajunto](https://jogajunto.com.br).
 
-A proposta do teste é medir a familiaridade e experiência do desenvolvedor com PHP e a sua capacidade de interpretar e comunicar conteúdo técnico.
+A proposta do teste é medir a familiaridade e experiência da pessoa desenvolvedora com PHP e a sua capacidade de interpretar e comunicar conteúdo técnico.
 
 O teste consiste em 13 perguntas de redação sobre comportamentos e características do PHP. 
 
