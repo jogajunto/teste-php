@@ -8,7 +8,7 @@ O teste consiste em 13 perguntas de redação sobre comportamentos e caracterís
 
 ## ↗️ Instruções:
 
-- Você deve criar um fork desse repositóriop, atualizar o arquivo [TEST.md](TEST.md) com suas respostas, e nos enviar o link — contato@jogajunto.com.br.
+- Você deve criar um fork desse repositório, atualizar o arquivo [TEST.md](TEST.md) com suas respostas, e enviar o link para vagas@jogajunto.com.br.
 - Você deve justificar suas respostas, explicando em detalhe por quê você acha que acontece o que acontece em cada cenário. 
 
 ## 👍 Você pode: 
