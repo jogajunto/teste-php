@@ -13,7 +13,7 @@ O teste consiste em 13 perguntas de redação sobre comportamentos e caracterís
 
 ## 👍 Você pode: 
 
-- Tirar quantas dúvidas quiser sobre o teste e o processo de avaliação — contato@jogajunto.com.br.
+- Tirar quantas dúvidas quiser sobre o teste e o processo de avaliação — vagas@jogajunto.com.br.
 - Usar um ambiente de execução PHP para testar e explorar os códigos apresentados no teste.
 - Responder parcialmente ou arriscar palpites.
 - Consultar a [documentação do PHP](https://www.php.net/manual/pt_BR/).
