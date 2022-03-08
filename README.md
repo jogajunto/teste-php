@@ -4,25 +4,24 @@ Olá! 👋 Este é o teste técnico para a pessoa desenvolvedora PHP da [Jogajun
 
 A proposta do teste é medir a familiaridade e experiência da pessoa desenvolvedora com PHP e a sua capacidade de interpretar e comunicar conteúdo técnico.
 
-O teste consiste em 13 perguntas de redação sobre comportamentos e características do PHP. 
+O teste consiste em 13 perguntas de redação sobre comportamentos e características do PHP.
 
 ## ↗️ Instruções:
 
-- Você deve criar um fork desse repositório, atualizar o arquivo [TEST.md](TEST.md) com suas respostas, e enviar o link para vagas@jogajunto.com.br.
+- Você deve criar um novo repositório usando este como modelo, atualizar o arquivo [TEST.md](TEST.md) com suas respostas, e enviar o link para vagas@jogajunto.com.br.
 - Você deve justificar suas respostas, explicando em detalhe por quê você acha que acontece o que acontece em cada cenário. 
 
 ## 👍 Você pode: 
 
 - Tirar quantas dúvidas quiser sobre o teste e o processo de avaliação — vagas@jogajunto.com.br.
 - Usar um ambiente de execução PHP para testar e explorar os códigos apresentados no teste.
-- Responder parcialmente ou arriscar palpites.
-- Consultar a [documentação do PHP](https://www.php.net/manual/pt_BR/).
+- Responder parcialmente e deixar perguntas em branco, mas encorajamos fortemente você a arriscar um palpite. Um bom palpite pode valer mais que uma resposta certa mal explicada. ;)
+- Usar formatação de texto (Markdown).
 
 ## 🚫 Você não pode: 
 
-- Copiar explicações da documentação.
-- Deixar respostas em branco.
-- Responder sem explicar.
+- Consultar referências externas ou pesquisar na internet.
+- Responder sem explicar o porquê da resposta.
 
 ## 👀 Você será avaliado por (em ordem de importância):
 
