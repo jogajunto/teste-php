@@ -1,4 +1,4 @@
-# Teste para desenvolvedor PHP
+# Teste para pessoa desenvolvedora PHP
 
 [← Voltar](README.md).
 
