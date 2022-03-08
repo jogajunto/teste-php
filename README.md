@@ -8,7 +8,7 @@ O teste consiste em 13 perguntas de redação sobre comportamentos e caracterís
 
 ## ↗️ Instruções:
 
-- Você deve criar um novo repositório usando este como modelo, atualizar o arquivo [TEST.md](TEST.md) com suas respostas, e enviar o link para vagas@jogajunto.com.br.
+- Você deve [criar um novo repositório usando este como modelo](https://github.com/jogajunto/teste-php/generate), atualizar o arquivo [TEST.md](TEST.md) com suas respostas, e enviar o link para vagas@jogajunto.com.br.
 - Você deve justificar suas respostas, explicando em detalhe por quê você acha que acontece o que acontece em cada cenário. 
 
 ## 👍 Você pode: 
