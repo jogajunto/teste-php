@@ -48,11 +48,14 @@ var_dump($x);
 
 ```php
 $x = 5;
+$a = array(
+    $x++ + $x++,
+    $x,
+    $x-- + $x--,
+    $x,
+);
 
-var_dump(array(
-    $x++ + $x++, $x,
-    $x-- + $x--, $x,
-));
+var_dump($a);
 ```
 
 > (Sua resposta aqui.)
