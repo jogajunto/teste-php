@@ -9,31 +9,32 @@ O teste consiste em 13 perguntas de redação sobre comportamentos e caracterís
 ## ↗️ Instruções:
 
 - Você deve [criar um novo repositório usando este como modelo](https://github.com/jogajunto/teste-php/generate), atualizar o arquivo [TEST.md](TEST.md) com suas respostas, e enviar o link para vagas@jogajunto.com.br.
-- Você deve justificar suas respostas, explicando em detalhe por quê você acha que acontece o que acontece em cada cenário. 
+- Você deve justificar suas respostas, explicando em detalhe seu entendimento do que acontece em cada cenário.
 
-## 👍 Você pode: 
+## 👍 Você pode:
 
 - Tirar quantas dúvidas quiser sobre o teste e o processo de avaliação — vagas@jogajunto.com.br.
 - Usar um ambiente de execução PHP para testar e explorar os códigos apresentados no teste.
-- Responder parcialmente e deixar perguntas em branco, mas encorajamos fortemente você a arriscar um palpite. Um bom palpite pode valer mais que uma resposta certa mal explicada.
+- Responder parcialmente e deixar perguntas em branco. Mas encorajamos fortemente você a arriscar um palpite. Um bom palpite errado bem elaborado pode valer mais que uma resposta certa mal explicada.
 - Usar formatação de texto (Markdown).
 
-## 🚫 Você não pode: 
+## 🚫 Você não pode:
 
 - Consultar referências externas ou pesquisar na internet.
-- Responder sem explicar o porquê da resposta.
+- Responder sem justificar sua resposta.
 
 ## 👀 Você será avaliado por (em ordem de importância):
 
 1. Clareza e coerência das respostas.
 2. Raciocínio lógico.
-3. Didática nas explicações.
-4. Quantidade de respostas certas.
+3. Entendimento de conceitos fundamentais de programação.
+4. Interpretação de texto.
+5. Didática nas explicações.
+6. Quantidade de respostas certas.
 
-## 🙈 Você não será avaliado por: 
+## 🙈 Você não será avaliado por:
 
 - Velocidade.
-- Não saber todas as respostas.
 
 Não há limite de tempo. Boa sorte! 🍀
 

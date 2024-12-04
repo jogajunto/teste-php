@@ -20,11 +20,11 @@ var_dump($b);
 > NULL
 > NULL
 > ```
-> 
+>
 > A função `array_merge` retorna `NULL` quando qualquer um dos argumentos não for do tipo `array`. Embora o PHP 7 emita warnings sobre erro no tipo do argumento nem toda instalação está configurada para exibir warnings, logo é importante o desenvolvedor verificar os valores maualmente antes da chamada do `array_merge`, especialmente quando estamos concatenando o retorno de um `array_merge`.
 >
 > No PHP 8 esse comportamento foi atualizado para emitir um erro, o que ajuda a prevenir problemas.
-> 
+>
 > ```
 > Fatal error: Uncaught TypeError: array_merge(): Argument #2 must be of type array
 > ```
@@ -70,7 +70,7 @@ $b = "2$b";
 
 > (Sua resposta aqui.)
 
-### 5. O que são Traits e para que servem? 
+### 5. O que são Traits e para que servem?
 
 > (Sua resposta aqui.)
 
